@@ -1,0 +1,16 @@
+{
+  "name": "ttb-node-evrythng",
+  "version": "0.0.1",
+  "description": "This node allow the user to post data on Evrythng.",
+  "node-red": {
+    "nodes": {
+      "evrythng": "evrythng.js"
+    }
+  },
+  "keywords": [
+    "node-red",
+    "evrythng"
+  ],
+  "author": "http://www.digitalairways.com/",
+  "license": "http://www.wtfpl.net"
+}

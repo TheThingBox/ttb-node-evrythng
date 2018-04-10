@@ -1,0 +1,14 @@
+{
+  "evrythng": {
+    "api": {
+      "label": "API Token",
+      "placeholder": "API key"
+    },
+    "thng": "Thng ID",
+    "property": {
+      "label": "Property",
+      "placeholder": "e.g electricity"
+    },
+    "name": "Name"
+  }
+}
